@@ -1,0 +1,225 @@
+body {
+    margin-top: 0px;
+    align-items: center;
+}
+
+header {
+    margin-bottom: 20px;
+    font-size: 72px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+#hra{
+    margin: 35px;
+    color: black;
+    border: 2px solid black;
+}
+
+#maindiv {
+    width: 55%;
+    height: 980px;
+    border: 2px solid black;
+    border-radius: 25px;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 300px;
+    background-color: rgba(75, 117, 179, 0.423);
+    background-image: li;
+}
+
+.dplimg {
+    width: 175px;
+    height: 205px;
+    border: 2px solid black;
+    border-radius: 25px;
+
+}
+
+#myname {
+    border: 2px solid rgb(10, 7, 7);
+    background-color: rgb(123, 204, 107);
+    width: 70%;
+    height: 205px;
+    border-radius: 25px;
+    display: inline-block;
+    float: right;
+    margin-right: 25px;
+    margin-top: 0px;
+    padding: 0px;
+}
+
+.name {
+    color: rgb(18, 124, 245);
+    font-size: 35px;
+    font-weight: bold;
+    display: block;
+    padding: 0px;
+    margin: 0px;
+}
+
+.heading {
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(122, 47, 47);
+    display: block;
+}
+#hr{
+    padding-bottom: 0px;
+    margin: 0px;
+}
+.text{
+    font-size: 12px;
+    padding: 0px;
+    margin: 0px;
+    font-weight: bold   ;
+}
+
+#detail {
+    width: 175px;
+    height: 55%;
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-left: 12px;
+    border-radius: 25px;
+    font-size: large;
+    font-weight: bolder;
+    display: inline-block;
+
+}
+#icon{
+    margin-top: 10px;
+    font-weight: bold;
+}
+.span1{
+    display: block;
+    margin-left: 0px;
+    font-size: 11px;
+    font-weight: bolder;
+    margin-bottom: 5px;
+}
+.hrb{
+    margin-top: 0px;
+}
+#techskl{
+    font-size: 22px;
+    color: red;
+    margin-top: 10px;
+}
+.span2{
+    padding-top: 0px;
+    padding-left: 5px;
+    text-align: left;
+    width: 170px;
+    height: 50px;
+    display: block;
+    font-size: 18;
+}
+.span2a{
+    margin-top: 10px;
+    width: 150px;
+    height: 8px;
+    display: block;
+    background-color: red;
+}
+.span2ams{
+    display: inline;
+    float: right;
+    width: 8px;
+    height: 8px;
+    background-color: white;    
+}
+.span2ah{
+    display: inline;
+    float: right;
+    width: 15px;
+    height: 8px;
+    background-color: white;    
+}
+.span2ac{
+    display: inline;
+    float: right;
+    width: 20px;
+    height: 8px;
+    background-color: white;    
+}
+.span2aj{
+    display: inline;
+    float: right;
+    width: 40px;
+    height: 8px;
+    background-color: white;
+}
+.explaination{
+    margin-right: 20px;
+    float: right;
+    width: 550px;
+    height: 55%;
+    border: 2px solid black;
+    border-radius: 25px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 8.5px;
+}
+.bigdiv{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: left;
+    margin-left: 15px;
+    font-style: italic;
+    display: inline-block;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+.alltext{
+    font-size: 13px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+}
+.ul1{
+    display: block;
+    margin-top: 42px;
+    text-align: left;
+    font-weight: bold;
+    color: blueviolet;
+}
+.li1{
+    width: 550px;
+    /* border: 2px solid black; */
+}
+.b1{
+    margin-right: 30px;
+    color: rgb(35, 35, 236);    
+}
+.ul2{
+    display: block;
+    margin-top: 60px;
+    text-align: left;
+    color: blueviolet;
+    font-weight: bold;
+}
+.b2{
+    margin-right: 10px;
+    color: rgb(35, 35, 236);    
+}
+.ul3{
+    display: block;
+    margin-top: 58px;
+    text-align: left;
+    color: blueviolet;
+    font-weight: bold;
+}
+.b3{
+    margin-right: 10px;
+    color: rgb(35, 35, 236);    
+}
+.ul4{
+    display: block;
+    margin-top: 58px;
+    text-align: left;
+    font-weight: bold;
+    color: blueviolet;
+}
+@media screen(min-width 375) {
+    
+}
